@@ -1,0 +1,8 @@
+.avatars {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.appLogo {
+	max-width: 190px;
+}
